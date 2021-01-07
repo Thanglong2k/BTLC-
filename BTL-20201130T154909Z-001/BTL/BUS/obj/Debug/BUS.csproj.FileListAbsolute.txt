@@ -1,0 +1,55 @@
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\BUS.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\BUS.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\DAL.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\DTO.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\DAL.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\DTO.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.pdb
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\BUS.dll
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\BUS.pdb
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\DAL.dll
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\DTO.dll
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\DAL.pdb
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\DTO.pdb
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.dll
+D:\Compressed\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.pdb
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\BUS.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\BUS.pdb
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\DAL.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\DTO.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\DAL.pdb
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\bin\Debug\DTO.pdb
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\BUS\obj\Debug\BUS.pdb
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\BUS.dll
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\BUS.pdb
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\DAL.dll
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\DTO.dll
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\DAL.pdb
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\DTO.pdb
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.dll
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\BUS.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\BUS.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\DAL.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\DTO.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\DAL.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\bin\Debug\DTO.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\BUS\obj\Debug\BUS.pdb

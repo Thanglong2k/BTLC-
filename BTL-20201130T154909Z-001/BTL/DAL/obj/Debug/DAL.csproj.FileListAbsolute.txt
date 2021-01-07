@@ -1,0 +1,50 @@
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\DAL.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\DAL.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\DTO.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\DTO.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.pdb
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\DAL.dll
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\DAL.pdb
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\DTO.dll
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\FontAwesome.Sharp.dll
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\DTO.pdb
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.dll
+D:\Compressed\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.pdb
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\DAL.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\DAL.pdb
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\DTO.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\bin\Debug\DTO.pdb
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DAL\obj\Debug\DAL.pdb
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\DAL.dll
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\DAL.pdb
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\DTO.dll
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\FontAwesome.Sharp.dll
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\DTO.pdb
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.dll
+D:\Compressed\HOC\Nam 3 Ky 1\Lap trinh truc quan\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\DAL.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\DAL.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\DTO.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\bin\Debug\DTO.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,39 @@
+--1
+ALTER trigger [dbo].[capNhatSoLuong2] on [dbo].[ChiTietDonDatHang]
+for insert, update, delete
+as begin
+	declare  @maHang tinyint, @sl1 int, @sl2 int, @sl int
+	select @maHang = MaHang, @sl1= SoLuong from inserted
+	select @sl2 = SoLuong from deleted
+	select @sl = isnull(soLuong, 0) from DMucHang where MaHang = @maHang
+	set @sl = @sl-ISNULL(@sl1,0)+ISNULL(@sl2,0)
+	update DMucHang set SoLuong = @sl where MaHang = @maHang
+end
+--2
+ALTER trigger [dbo].[capNhatGiaBan] on [dbo].[ChiTietHoaDonNhap]
+for insert, update
+as
+begin
+	declare  @maHang tinyint, @donGiaNhap int
+	select @maHang = MaHang, @donGiaNhap = DonGia from inserted
+	update DMucHang set DonGiaBan = @donGiaNhap*1.1 where MaHang = @maHang
+end
+--3
+ALTER trigger [dbo].[capNhatSoLuong] on [dbo].[ChiTietHoaDonNhap]
+for insert, update, delete
+as begin
+	declare  @maHang tinyint, @sl1 int, @sl2 int, @sl int
+	select @maHang = MaHang, @sl1= SoLuong from inserted
+	select @sl2 = SoLuong from deleted
+	select @sl = isnull(soLuong, 0) from DMucHang where MaHang = @maHang
+	set @sl = @sl+ISNULL(@sl1,0)-ISNULL(@sl2,0)
+	update DMucHang set SoLuong = @sl where MaHang = @maHang
+end
+--4
+ALTER trigger [dbo].[danhMucHangTuDanhMucNhap] on [dbo].[ChiTietHoaDonNhap]
+for insert, update
+as begin
+	declare @MaHang tinyint, @donGia int
+	select @MaHang = MaHang, @donGia = DonGia from inserted
+	update DMucHang set DonGiaBan = @donGia*1.1, DonGiaNhap = @donGia where MaHang = @MaHang
+end

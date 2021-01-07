@@ -1,0 +1,18 @@
+C:\Users\trant\OneDrive\Máy tính\BTL\DTO\bin\Debug\DTO.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DTO\bin\Debug\DTO.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\DTO\obj\Debug\DTO.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DTO\obj\Debug\DTO.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DTO\bin\Debug\DTO.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DTO\bin\Debug\DTO.pdb
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DTO\obj\Debug\DTO.dll
+C:\Users\trant\Downloads\BTL-20201104T124823Z-001\BTL\DTO\obj\Debug\DTO.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DTO\bin\Debug\DTO.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DTO\bin\Debug\DTO.pdb
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DTO\obj\Debug\DTO.dll
+C:\Users\trant\Downloads\BTL-20201130T154909Z-001\BTL\DTO\obj\Debug\DTO.pdb
